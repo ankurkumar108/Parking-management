@@ -1,4 +1,4 @@
-/**program that desigs a parking management system to record
+/**program that designs a parking management system to record
  number of bus ,car,riskaw,and the total revenue collected at the end of the day
 **/
 #include<stdio.h>
