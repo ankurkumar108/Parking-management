@@ -4,4 +4,4 @@ user can Add the number of vehicle(Bus ,Car ,Rickshaw) that has been parked and 
 - Total amount earned 
 - No. of vechiles parked individually at current time
 
-User can also Re-Set the data For the next day use
+User can Save the Data into a text file and also Re-Set the data For the next day use
